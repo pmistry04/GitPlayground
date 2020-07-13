@@ -1,3 +1,3 @@
 # GitPlayground
 
-Sample Repo
+Sample Repo for playing!
