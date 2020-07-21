@@ -1,3 +1,2 @@
-Test Feature 4
- Let's rule the world!
+Let's rule the world!
 
