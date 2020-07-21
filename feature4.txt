@@ -1,6 +1,3 @@
 Test Feature 4
-A bit of variation
-One more function
-Final testing. Round 4
 
-New rounds of testing!!!!!
+Towards first success - develop branch testing!
