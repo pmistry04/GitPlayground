@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testing ABC DBE
+=======
+New test
+>>>>>>> master
